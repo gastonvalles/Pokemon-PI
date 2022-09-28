@@ -1,0 +1,15 @@
+.search {
+    width: 400px;
+    height: 35px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: transparent;
+    background-color: rgb(206, 114, 114);
+    color: white;
+    border-radius: 2rem;
+    text-align: center;
+
+}
+.search::placeholder{
+    color: white;
+}

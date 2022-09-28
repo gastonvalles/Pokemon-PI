@@ -1,0 +1,83 @@
+.reloadBtn {
+    background-color: rgb(141, 162, 184);
+    border-color: rgb(96, 173, 255);
+    border-radius: 12%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+.nav {
+    background-color: #89b9b4;
+}
+
+.home {
+    font-weight: bold;
+    font-family: fantasy;
+    color: green;
+    background-color: black;
+    text-align: justify;
+}
+
+.createLink {
+    background-color: #89b9b4;
+    color: black;
+
+}
+
+.create {
+
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+    background-color: #c6fffa;
+    border-radius: 3px;
+    margin-top: 10px;
+    padding: 0em 1em;
+}
+
+.create:hover {
+    padding: 0.5em 1em;
+}
+
+.page {
+    width: 100%;
+    /* height: 1400px; */
+    flex-grow: 999;
+    min-height: 100%;
+    padding-bottom: 250px;
+}
+
+.select {
+    background-color: white;
+    margin-top: 10px;
+    color: grey
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.group {
+    flex-basis: 0;
+    flex-grow: 999;
+    min-width: 60%;
+    width: 90%;
+    margin-top: 1rem;
+    margin-bottom: 6rem;
+}
+
+.o {
+    padding-bottom: auto;
+    flex-grow: 1;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
