@@ -6,6 +6,7 @@ import { getTypes } from "../../Actions/actions";
 import Nav from "../Nav/Nav";
 import pika from '../../Imgs/pika.png'
 import styles from '../Create/Create.module.css'
+//cambio
 
 export default function Create() {
     const validate = (input) => {
